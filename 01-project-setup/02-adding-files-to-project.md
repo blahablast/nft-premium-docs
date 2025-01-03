@@ -60,6 +60,12 @@ Give the project a name that is unique and create.
 `GitHub` will then give you some instructions for pushing your project up.
 
 ```bash
+git init
+```
+
+Must run `init` first if you do **not** already have an exisiting repo. For **New** Repos.
+
+```bash
 git add .
 ```
 
